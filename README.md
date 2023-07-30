@@ -1,5 +1,5 @@
 
-<b>Projects:</b>
+<b>My projects:</b>
 
 * [Chat](https://github.com/Shamilist/Chat) - simple the real-time chat. Technologies: React, Redux, Redux Toolkit, React Router, React Bootstrap, Formik, Web sockets.
 
