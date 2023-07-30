@@ -15,9 +15,7 @@ Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)
 
 E-mail: shamilist90@gmail.com 
 
-
-
-
+   
  
 <b>Languages and Tools:</b>     
 
