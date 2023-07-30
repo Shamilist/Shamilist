@@ -14,7 +14,7 @@ E-Mail: shamilist90@gmail.com
 Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
 
 
----
+---  
 <b>Languages and Tools:</b>     
 
 <p align="left">
@@ -28,6 +28,7 @@ Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 </p>
+
 ---  
 <b>My GitHub Stats:</b>     
 
