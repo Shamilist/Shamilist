@@ -9,9 +9,11 @@
 ---    
 <b>Connect with me:</b>
 
+Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
+
 E-Mail: shamilist90@gmail.com 
 
-Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
+
 
 
 ---  
