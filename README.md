@@ -12,7 +12,7 @@
 ---
 E-Mail: shamilist90@gmail.com 
 
-Telegram: @SHAMIL_KHL
+Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)
 
 <b>My GitHub Stats</b>     
 ---
