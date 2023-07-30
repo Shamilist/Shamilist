@@ -13,7 +13,7 @@
 
 Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
 
-E-Mail: shamilist90@gmail.com 
+E-mail: shamilist90@gmail.com 
 
 
 
