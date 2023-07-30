@@ -10,9 +10,9 @@
 
 <b>Contacts</b>
 ---
-Email: shamilist90@gmail.com 
+E-Mail: shamilist90@gmail.com 
 
-Telegram: 
+Telegram: @SHAMIL_KHL
 
 <b>My GitHub Stats</b>     
 ---
