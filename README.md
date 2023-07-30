@@ -1,4 +1,4 @@
-
+--- 
 
 <b>Projects:</b>
 
@@ -8,7 +8,7 @@
 
 * [JSON-YAML-files-comparator](https://github.com/Shamilist/JSON-YAML-files-comparator) - Application that finds differences in configuration files. Technologies: JS, Node.js, Commander, Lodash, Jest, Git.   
 
-   
+--- 
 <b>Contact with me:</b>
 
 Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
@@ -16,7 +16,7 @@ Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)
 E-mail: shamilist90@gmail.com 
 
    
- 
+ --- 
 <b>Languages and Tools:</b>     
 
 <p align="left">
