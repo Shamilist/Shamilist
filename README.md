@@ -10,7 +10,8 @@
 
 <b>Contacts</b>
 ---
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)          
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): shamilist90@gmail.com
+![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): 
 
 <b>My GitHub Stats</b>     
 ---
