@@ -1,5 +1,5 @@
 
---- 
+
 <b>Projects:</b>
 
 * [Chat](https://github.com/Shamilist/Chat) - simple the real-time chat. Technologies: React, Redux, Redux Toolkit, React Router, React Bootstrap, Formik, Web sockets.
@@ -8,7 +8,7 @@
 
 * [JSON-YAML-files-comparator](https://github.com/Shamilist/JSON-YAML-files-comparator) - Application that finds differences in configuration files. Technologies: JS, Node.js, Commander, Lodash, Jest, Git.   
 
----    
+   
 <b>Contact with me:</b>
 
 Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
@@ -18,7 +18,7 @@ E-mail: shamilist90@gmail.com
 
 
 
----  
+ 
 <b>Languages and Tools:</b>     
 
 <p align="left">
@@ -33,7 +33,7 @@ E-mail: shamilist90@gmail.com
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 </p>
 
----  
+  
 <b>My GitHub Stats:</b>     
 
 
