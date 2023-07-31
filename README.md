@@ -1,7 +1,7 @@
 
 <b>My projects:</b>
 
-* [Chat](https://github.com/Shamilist/Chat) - simple the real-time chat. Technologies: React, Redux, Redux Toolkit, React Router, React Bootstrap, Formik, Web sockets.
+* [Chat](https://github.com/Shamilist/Chat) -  simplified version the real-time chat like Slack. Technologies: React, Redux, Redux Toolkit, React Router, React Bootstrap, Formik, Web sockets.
 
 * [RSS-Reader](https://github.com/Shamilist/RSS-reader) - application for the aggregation of RSS feeds. Technologies: JS, Webpack, Bootstrap, Yup, i18next, Axios.
 
