@@ -5,7 +5,7 @@
 
 * [RSS-Reader](https://github.com/Shamilist/RSS-reader) - application for the aggregation of RSS feeds. Technologies: JS, Webpack, Bootstrap, Yup, i18next, Axios.
 
-* [JSON-YAML-files-comparator](https://github.com/Shamilist/JSON-YAML-files-comparator) - application that finds differences in configuration files. Technologies: JS, Node.js, Commander, Lodash, Jest, Git.   
+* [JSON-YAML-files-comparator](https://github.com/Shamilist/JSON-YAML-files-comparator) - application that finds differences in configuration files. Technologies: JS, Node.js, Commander, Jest.
 
 --- 
 <b>Contact with me:</b>
