@@ -7,14 +7,6 @@
 
 * [JSON-YAML-files-comparator](https://github.com/Shamilist/JSON-YAML-files-comparator) - application that finds differences in configuration files. Technologies: JS, Node.js, Commander, Jest.
 
---- 
-<b>Contact with me:</b>
-
-Telegram: [@SHAMIL_KHL](https://t.me/SHAMIL_KHL)   
-
-E-mail: shamilist90@gmail.com 
-
-   
  --- 
 <b>Languages and Tools:</b>     
 
