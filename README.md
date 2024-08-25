@@ -1,7 +1,7 @@
 <b>Languages and Tools:</b>     
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,postgres,rabbitmq,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=js,py,postgres,rabbitmq,postman" />
   </a>
 
 
