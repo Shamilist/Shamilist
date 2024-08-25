@@ -1,13 +1,3 @@
-
-<b>My projects:</b>
-
-* [Chat](https://github.com/Shamilist/Chat) -  simplified version the real-time chat like Slack. Technologies: React, Redux, Redux Toolkit, React Router, React Bootstrap, Formik, Web sockets.
-
-* [RSS-Reader](https://github.com/Shamilist/RSS-reader) - application for the aggregation of RSS feeds. Technologies: JS, Webpack, Bootstrap, Yup, i18next, Axios.
-
-* [JSON-YAML-files-comparator](https://github.com/Shamilist/JSON-YAML-files-comparator) - application that finds differences in configuration files. Technologies: JS, Node.js, Commander, Jest.
-
- --- 
 <b>Languages and Tools:</b>     
 
 <p align="left">
